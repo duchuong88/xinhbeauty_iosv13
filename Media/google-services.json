@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "133917014521",
+    "firebase_url": "https://xinh-beauty-default-rtdb.firebaseio.com",
+    "project_id": "xinh-beauty",
+    "storage_bucket": "xinh-beauty.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133917014521:android:8056da07635b9f6dbea528",
+        "android_client_info": {
+          "package_name": "xinhbeauty.ezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkUY8s_1GTCR3TdFs_ikM0fp20M7tLeLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
